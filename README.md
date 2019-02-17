@@ -1,9 +1,9 @@
 # EC500-ffmpeg exercise
 
 ## Instructions
-This script can help user convert the video to various format. For youe convenience, there is a [BU introduction](https://www.youtube.com/watch?v=ufOtu6As9-M&t=89s) video that can be used for the testing. Have fun!
+This script can help user convert the video to various format. For your convenience, there is a [BU introduction](https://www.youtube.com/watch?v=ufOtu6As9-M&t=89s) video that can be used for the testing. Have fun!
 ## Demo
-Users can set the progressive, Mbps and fps.
+Before convertion, users can set the progressive, Mbps and fps:
 ```
 There are 2 files in queue to convert.
 Press 'y' to modify the video or 'n' to use default value.
